@@ -1,2 +1,2 @@
-hello we are testing our SSH
-This is our first trial
+We created a key pair
+Then we added public key in our github account to test some features
